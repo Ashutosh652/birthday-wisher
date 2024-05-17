@@ -1,0 +1,1 @@
+A simple python script that sends happy birthday at 12:00 to anyone whose birthday is in the excel file.
