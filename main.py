@@ -142,7 +142,7 @@ def wish_happy_birthday():
 
 
 def main():
-    schedule.every().day.at("15:14").do(wish_happy_birthday)
+    schedule.every().day.at("24:00").do(wish_happy_birthday)
     print("Program Running...\n\n")
     while True:
         schedule.run_pending()
